@@ -1,0 +1,1 @@
+print("Wunderschöner Tag heute, oder?")
