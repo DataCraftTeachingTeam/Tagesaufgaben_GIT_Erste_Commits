@@ -1,14 +1,6 @@
-# Tagesaufgaben - GIT
+# Tagesaufgaben - GIT - Erste Commits
 
-
-## 01.08.2023
-
-### Aufgabe 3
-
-a) Schaue dir folgendes Video über Git an: https://www.youtube.com/watch?v=uGLQF2kUwOA
-
-b) Erstelle einen "Fork" von diesem Repository. Das kannst du tun indem du oben rechts auf "Fork" klickst.
-
-## 02.08.2023
-
-...
+1. Kopiere dieses Github Repository in deinen eigenen GitHub online Account (Mit dem Button „Fork“ oben rechts kann man das Projekt kopieren. Dazu musst du eingeloggt sein)!
+2. Klone das Repository in dein Arbeitsverzeichnis (`clone`). Füge der Datei `Contributing.md` den folgenden Text hinzu: <br>"Bitte sende eine Email an : lieblings_kollege@firma.com"
+3. Erstelle einen commit mit deiner Änderung (`add` und `commit`) und lade die Änderungen auf den Server (`push`).
+4. Füge den Link zu deinem Repository deiner Antwort-Textdatei hinzu.
